@@ -1,4 +1,4 @@
-# data-analytics-portfolio
+# data-analytics
 ## Projects
 
 ### 1. Student Dropout Risk Prediction
